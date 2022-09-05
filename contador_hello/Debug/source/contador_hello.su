@@ -1,0 +1,4 @@
+../source/contador_hello.cpp:50:2:Contador::Contador()	16	static
+../source/contador_hello.cpp:54:7:void Contador::incrementar()	16	static
+../source/contador_hello.cpp:58:6:int Contador::get_cuenta()	16	static
+../source/contador_hello.cpp:67:5:int main()	16	static

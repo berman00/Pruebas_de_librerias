@@ -1,0 +1,3 @@
+../source/MKL46Z4_Project.cpp:50:2:Contador::Contador()	16	static
+../source/MKL46Z4_Project.cpp:54:7:void Contador::increment()	16	static
+../source/MKL46Z4_Project.cpp:63:5:int main()	16	static

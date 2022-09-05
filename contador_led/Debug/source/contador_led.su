@@ -1,0 +1,7 @@
+C:\Users\valen\Documents\MCUXpresso\workspace\contador_led\drivers/fsl_clock.h:601:20:void CLOCK_EnableClock(clock_ip_name_t)	24	static
+C:\Users\valen\Documents\MCUXpresso\workspace\contador_led\drivers/fsl_gpio.h:161:20:void GPIO_PinWrite(GPIO_Type*, uint32_t, uint8_t)	24	static
+C:\Users\valen\Documents\MCUXpresso\workspace\contador_led\drivers/fsl_port.h:371:20:void PORT_SetPinMux(PORT_Type*, uint32_t, port_mux_t)	24	static
+../source/contador_led.cpp:49:2:Contador::Contador()	16	static
+../source/contador_led.cpp:53:7:void Contador::incrementar()	16	static
+../source/contador_led.cpp:57:6:int Contador::get_cuenta()	16	static
+../source/contador_led.cpp:64:5:int main()	16	static
